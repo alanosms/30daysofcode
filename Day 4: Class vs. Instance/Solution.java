@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Person {
+public class Solution {
     private int age;
 
     public Person(int initialAge) {
