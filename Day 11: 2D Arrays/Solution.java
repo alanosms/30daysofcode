@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day11 {
+public class Solution {
 
 	public static void main(String[] args) {
         int sum = 0;
