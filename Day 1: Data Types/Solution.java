@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dayone{
+public class Solution{
     public static void main(String args[]){
         int i = 4;
         double d = 4.0;
