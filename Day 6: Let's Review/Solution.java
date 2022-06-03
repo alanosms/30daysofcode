@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class daysix {
+public class Solution {
     public static void main(String args[]) {
         int numberOfCases;
         Scanner scan = new Scanner(System.in);
