@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class daytwo {
+public class Solution{
     public static void main(String args[]) {
         double meal_cost;
         int tip_percent, tax_percent;
